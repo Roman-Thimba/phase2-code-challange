@@ -89,6 +89,17 @@
       "category": "Home",
       "deadline": "2025-03-31",
       "createdAt": "2024-05-15"
+    },
+    {
+      "id": "7cd7",
+      "name": "savings",
+      "category": "fare",
+      "deadline": "22222-02-22",
+      "targetAmount": 23333,
+      "deliverables": [
+        "LOCKED"
+      ],
+      "savedAmount": 0
     }
   ]
 }
